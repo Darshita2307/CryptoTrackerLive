@@ -1,0 +1,9 @@
+#body{
+  /* padding: 5rem; */
+  background-color: hsl(55, 29%, 85%);
+  background-image: url();
+  /* margin-top: 13rem; */
+}
+body{
+  background-image: url('bg.jpg');
+}
